@@ -1,0 +1,152 @@
+[
+  {
+    "id": "STF-0001",
+    "fullName": "Priya Menon",
+    "email": "priya.menon@aureliabay.example",
+    "phone": "+91 90000 50000",
+    "department": "MANAGEMENT",
+    "designation": "General Manager",
+    "joiningDate": "T-2100",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0002",
+    "fullName": "Rahul Desai",
+    "email": "rahul.desai@aureliabay.example",
+    "phone": "+91 90000 50041",
+    "department": "MANAGEMENT",
+    "designation": "Operations Manager",
+    "joiningDate": "T-1500",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0003",
+    "fullName": "Sneha Kamat",
+    "email": "sneha.kamat@aureliabay.example",
+    "phone": "+91 90000 50082",
+    "department": "RECEPTION",
+    "designation": "Front Office Manager",
+    "joiningDate": "T-1300",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0004",
+    "fullName": "Aniket Naik",
+    "email": "aniket.naik@aureliabay.example",
+    "phone": "+91 90000 50123",
+    "department": "RECEPTION",
+    "designation": "Receptionist",
+    "joiningDate": "T-620",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0005",
+    "fullName": "Fatima Sheikh",
+    "email": "fatima.sheikh@aureliabay.example",
+    "phone": "+91 90000 50164",
+    "department": "RECEPTION",
+    "designation": "Night Auditor",
+    "joiningDate": "T-410",
+    "employmentStatus": "ON_LEAVE"
+  },
+  {
+    "id": "STF-0006",
+    "fullName": "Lakshmi Gaonkar",
+    "email": "lakshmi.gaonkar@aureliabay.example",
+    "phone": "+91 90000 50205",
+    "department": "HOUSEKEEPING",
+    "designation": "Housekeeping Supervisor",
+    "joiningDate": "T-1700",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0007",
+    "fullName": "Sunil Parab",
+    "email": "sunil.parab@aureliabay.example",
+    "phone": "+91 90000 50246",
+    "department": "HOUSEKEEPING",
+    "designation": "Room Attendant",
+    "joiningDate": "T-900",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0008",
+    "fullName": "Maria D'Souza",
+    "email": "maria.dsouza@aureliabay.example",
+    "phone": "+91 90000 50287",
+    "department": "HOUSEKEEPING",
+    "designation": "Room Attendant",
+    "joiningDate": "T-520",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0009",
+    "fullName": "Ganesh Shetty",
+    "email": "ganesh.shetty@aureliabay.example",
+    "phone": "+91 90000 50328",
+    "department": "HOUSEKEEPING",
+    "designation": "Room Attendant",
+    "joiningDate": "T-260",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0010",
+    "fullName": "Vikram Chauhan",
+    "email": "vikram.chauhan@aureliabay.example",
+    "phone": "+91 90000 50369",
+    "department": "RESTAURANT",
+    "designation": "Executive Chef",
+    "joiningDate": "T-1950",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0011",
+    "fullName": "Alisha Coutinho",
+    "email": "alisha.coutinho@aureliabay.example",
+    "phone": "+91 90000 50410",
+    "department": "RESTAURANT",
+    "designation": "Restaurant Manager",
+    "joiningDate": "T-800",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0012",
+    "fullName": "Joel Pereira",
+    "email": "joel.pereira@aureliabay.example",
+    "phone": "+91 90000 50451",
+    "department": "RESTAURANT",
+    "designation": "Steward",
+    "joiningDate": "T-330",
+    "employmentStatus": "INACTIVE"
+  },
+  {
+    "id": "STF-0013",
+    "fullName": "Ramesh Yadav",
+    "email": "ramesh.yadav@aureliabay.example",
+    "phone": "+91 90000 50492",
+    "department": "MAINTENANCE",
+    "designation": "Chief Engineer",
+    "joiningDate": "T-1400",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0014",
+    "fullName": "Imran Khan",
+    "email": "imran.khan@aureliabay.example",
+    "phone": "+91 90000 50533",
+    "department": "MAINTENANCE",
+    "designation": "Electrician",
+    "joiningDate": "T-700",
+    "employmentStatus": "ACTIVE"
+  },
+  {
+    "id": "STF-0015",
+    "fullName": "Baldev Singh",
+    "email": "baldev.singh@aureliabay.example",
+    "phone": "+91 90000 50574",
+    "department": "SECURITY",
+    "designation": "Security Supervisor",
+    "joiningDate": "T-1100",
+    "employmentStatus": "ACTIVE"
+  }
+]

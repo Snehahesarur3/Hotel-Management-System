@@ -1,0 +1,227 @@
+[
+  {
+    "id": "PAY-0001",
+    "reservationId": "BK-0001",
+    "amount": 9341.5,
+    "method": "CREDIT_CARD",
+    "paymentDate": "T+0@07:20",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-880113"
+  },
+  {
+    "id": "PAY-0002",
+    "reservationId": "BK-0002",
+    "amount": 20916,
+    "method": "UPI",
+    "paymentDate": "T+0@07:30",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-880226"
+  },
+  {
+    "id": "PAY-0003",
+    "reservationId": "BK-0003",
+    "amount": 12117,
+    "method": "DEBIT_CARD",
+    "paymentDate": "T-3@10:21",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-880339"
+  },
+  {
+    "id": "PAY-0004",
+    "reservationId": "BK-0004",
+    "amount": 8491,
+    "method": "CASH",
+    "paymentDate": "T-9@11:24",
+    "status": "COMPLETED",
+    "transactionReference": "CASH-0004"
+  },
+  {
+    "id": "PAY-0005",
+    "reservationId": "BK-0005",
+    "amount": 28320,
+    "method": "BANK_TRANSFER",
+    "paymentDate": "T-16@10:27",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-880565"
+  },
+  {
+    "id": "PAY-0006",
+    "reservationId": "BK-0006",
+    "amount": 28320,
+    "method": "CREDIT_CARD",
+    "paymentDate": "T-24@11:30",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-880678"
+  },
+  {
+    "id": "PAY-0007",
+    "reservationId": "BK-0007",
+    "amount": 11760,
+    "method": "UPI",
+    "paymentDate": "T-35@10:33",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-880791"
+  },
+  {
+    "id": "PAY-0008",
+    "reservationId": "BK-0008",
+    "amount": 18480,
+    "method": "DEBIT_CARD",
+    "paymentDate": "T-48@11:36",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-880904"
+  },
+  {
+    "id": "PAY-0009",
+    "reservationId": "BK-0009",
+    "amount": 18480,
+    "method": "CASH",
+    "paymentDate": "T-62@10:39",
+    "status": "COMPLETED",
+    "transactionReference": "CASH-0009"
+  },
+  {
+    "id": "PAY-0010",
+    "reservationId": "BK-0010",
+    "amount": 15680,
+    "method": "BANK_TRANSFER",
+    "paymentDate": "T-80@11:42",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-881130"
+  },
+  {
+    "id": "PAY-0011",
+    "reservationId": "BK-0011",
+    "amount": 44250,
+    "method": "CREDIT_CARD",
+    "paymentDate": "T-101@10:45",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-881243"
+  },
+  {
+    "id": "PAY-0012",
+    "reservationId": "BK-0012",
+    "amount": 15680,
+    "method": "UPI",
+    "paymentDate": "T-125@11:48",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-881356"
+  },
+  {
+    "id": "PAY-0013",
+    "reservationId": "BK-0013",
+    "amount": 3920,
+    "method": "DEBIT_CARD",
+    "paymentDate": "T-3@14:05",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-881469"
+  },
+  {
+    "id": "PAY-0014",
+    "reservationId": "BK-0014",
+    "amount": 3920,
+    "method": "CASH",
+    "paymentDate": "T-2@15:09",
+    "status": "COMPLETED",
+    "transactionReference": "CASH-0014"
+  },
+  {
+    "id": "PAY-0015",
+    "reservationId": "BK-0015",
+    "amount": 3920,
+    "method": "BANK_TRANSFER",
+    "paymentDate": "T-1@16:13",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-881695"
+  },
+  {
+    "id": "PAY-0016",
+    "reservationId": "BK-0016",
+    "amount": 3920,
+    "method": "CREDIT_CARD",
+    "paymentDate": "T-4@17:17",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-881808"
+  },
+  {
+    "id": "PAY-0017",
+    "reservationId": "BK-0017",
+    "amount": 6160,
+    "method": "UPI",
+    "paymentDate": "T-2@14:21",
+    "status": "FAILED",
+    "transactionReference": "MOCK-TXN-881921"
+  },
+  {
+    "id": "PAY-0018",
+    "reservationId": "BK-0018",
+    "amount": 6160,
+    "method": "DEBIT_CARD",
+    "paymentDate": "T+0@06:45",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-882034"
+  },
+  {
+    "id": "PAY-0019",
+    "reservationId": "BK-0019",
+    "amount": 6160,
+    "method": "CASH",
+    "paymentDate": "T-1@16:29",
+    "status": "COMPLETED",
+    "transactionReference": "CASH-0019"
+  },
+  {
+    "id": "PAY-0020",
+    "reservationId": "BK-0020",
+    "amount": 6160,
+    "method": "BANK_TRANSFER",
+    "paymentDate": "T-5@17:33",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-882260"
+  },
+  {
+    "id": "PAY-0021",
+    "reservationId": "BK-0021",
+    "amount": 6160,
+    "method": "CREDIT_CARD",
+    "paymentDate": "T-2@14:37",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-882373"
+  },
+  {
+    "id": "PAY-0022",
+    "reservationId": "BK-0022",
+    "amount": 9440,
+    "method": "UPI",
+    "paymentDate": "T-3@15:41",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-882486"
+  },
+  {
+    "id": "PAY-0023",
+    "reservationId": "BK-0028",
+    "amount": 5500,
+    "method": "CREDIT_CARD",
+    "paymentDate": "T-30@18:40",
+    "status": "COMPLETED",
+    "transactionReference": "MOCK-TXN-882599"
+  },
+  {
+    "id": "PAY-0024",
+    "reservationId": "BK-0034",
+    "amount": 25000,
+    "method": "BANK_TRANSFER",
+    "paymentDate": "T-1@12:10",
+    "status": "PENDING",
+    "transactionReference": "MOCK-TXN-882712"
+  },
+  {
+    "id": "PAY-0025",
+    "reservationId": "BK-0039",
+    "amount": 5500,
+    "method": "UPI",
+    "paymentDate": "T-5@16:25",
+    "status": "REFUNDED",
+    "transactionReference": "MOCK-TXN-882825"
+  }
+]

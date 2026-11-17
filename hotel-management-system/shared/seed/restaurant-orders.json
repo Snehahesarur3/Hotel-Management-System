@@ -1,0 +1,307 @@
+[
+  {
+    "id": "ORD-0001",
+    "reservationId": "BK-0001",
+    "roomId": "RM-107",
+    "items": [
+      {
+        "menuItemId": "MNU-0009",
+        "quantity": 1,
+        "unitPrice": 650
+      },
+      {
+        "menuItemId": "MNU-0011",
+        "quantity": 1,
+        "unitPrice": 480
+      },
+      {
+        "menuItemId": "MNU-0017",
+        "quantity": 2,
+        "unitPrice": 150
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T-1@20:15"
+  },
+  {
+    "id": "ORD-0002",
+    "reservationId": "BK-0002",
+    "roomId": "RM-303",
+    "items": [
+      {
+        "menuItemId": "MNU-0006",
+        "quantity": 1,
+        "unitPrice": 560
+      },
+      {
+        "menuItemId": "MNU-0010",
+        "quantity": 2,
+        "unitPrice": 620
+      },
+      {
+        "menuItemId": "MNU-0013",
+        "quantity": 2,
+        "unitPrice": 260
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T-2@13:05"
+  },
+  {
+    "id": "ORD-0003",
+    "reservationId": "BK-0003",
+    "roomId": "RM-101",
+    "items": [
+      {
+        "menuItemId": "MNU-0002",
+        "quantity": 1,
+        "unitPrice": 220
+      },
+      {
+        "menuItemId": "MNU-0018",
+        "quantity": 1,
+        "unitPrice": 120
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T-5@08:30"
+  },
+  {
+    "id": "ORD-0004",
+    "reservationId": "BK-0004",
+    "roomId": "RM-206",
+    "items": [
+      {
+        "menuItemId": "MNU-0012",
+        "quantity": 1,
+        "unitPrice": 440
+      },
+      {
+        "menuItemId": "MNU-0014",
+        "quantity": 1,
+        "unitPrice": 180
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T-10@21:00"
+  },
+  {
+    "id": "ORD-0005",
+    "reservationId": "BK-0013",
+    "roomId": "RM-102",
+    "items": [
+      {
+        "menuItemId": "MNU-0005",
+        "quantity": 1,
+        "unitPrice": 420
+      },
+      {
+        "menuItemId": "MNU-0010",
+        "quantity": 1,
+        "unitPrice": 620
+      },
+      {
+        "menuItemId": "MNU-0017",
+        "quantity": 2,
+        "unitPrice": 150
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T-2@19:40"
+  },
+  {
+    "id": "ORD-0006",
+    "reservationId": "BK-0013",
+    "roomId": "RM-102",
+    "items": [
+      {
+        "menuItemId": "MNU-0001",
+        "quantity": 2,
+        "unitPrice": 280
+      },
+      {
+        "menuItemId": "MNU-0018",
+        "quantity": 2,
+        "unitPrice": 120
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T+0@08:10"
+  },
+  {
+    "id": "ORD-0007",
+    "reservationId": "BK-0016",
+    "roomId": "RM-203",
+    "items": [
+      {
+        "menuItemId": "MNU-0008",
+        "quantity": 1,
+        "unitPrice": 480
+      },
+      {
+        "menuItemId": "MNU-0019",
+        "quantity": 1,
+        "unitPrice": 220
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T-1@22:20"
+  },
+  {
+    "id": "ORD-0008",
+    "reservationId": "BK-0019",
+    "roomId": "RM-302",
+    "items": [
+      {
+        "menuItemId": "MNU-0009",
+        "quantity": 2,
+        "unitPrice": 650
+      },
+      {
+        "menuItemId": "MNU-0020",
+        "quantity": 2,
+        "unitPrice": 160
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T-1@13:30"
+  },
+  {
+    "id": "ORD-0009",
+    "reservationId": "BK-0021",
+    "roomId": "RM-309",
+    "items": [
+      {
+        "menuItemId": "MNU-0015",
+        "quantity": 1,
+        "unitPrice": 320
+      }
+    ],
+    "status": "CANCELLED",
+    "orderedAt": "T-1@20:45"
+  },
+  {
+    "id": "ORD-0010",
+    "reservationId": "BK-0021",
+    "roomId": "RM-309",
+    "items": [
+      {
+        "menuItemId": "MNU-0004",
+        "quantity": 1,
+        "unitPrice": 450
+      },
+      {
+        "menuItemId": "MNU-0019",
+        "quantity": 1,
+        "unitPrice": 220
+      }
+    ],
+    "status": "SERVED",
+    "orderedAt": "T+0@07:35"
+  },
+  {
+    "id": "ORD-0011",
+    "reservationId": "BK-0024",
+    "roomId": "RM-503",
+    "items": [
+      {
+        "menuItemId": "MNU-0006",
+        "quantity": 2,
+        "unitPrice": 560
+      },
+      {
+        "menuItemId": "MNU-0009",
+        "quantity": 2,
+        "unitPrice": 650
+      },
+      {
+        "menuItemId": "MNU-0013",
+        "quantity": 2,
+        "unitPrice": 260
+      },
+      {
+        "menuItemId": "MNU-0017",
+        "quantity": 4,
+        "unitPrice": 150
+      }
+    ],
+    "status": "DELIVERED",
+    "orderedAt": "T-1@21:10"
+  },
+  {
+    "id": "ORD-0012",
+    "reservationId": "BK-0025",
+    "roomId": "RM-506",
+    "items": [
+      {
+        "menuItemId": "MNU-0003",
+        "quantity": 2,
+        "unitPrice": 260
+      },
+      {
+        "menuItemId": "MNU-0018",
+        "quantity": 2,
+        "unitPrice": 120
+      }
+    ],
+    "status": "PREPARING",
+    "orderedAt": "T+0@07:55"
+  },
+  {
+    "id": "ORD-0013",
+    "reservationId": "BK-0026",
+    "roomId": "RM-509",
+    "items": [
+      {
+        "menuItemId": "MNU-0004",
+        "quantity": 3,
+        "unitPrice": 450
+      },
+      {
+        "menuItemId": "MNU-0019",
+        "quantity": 2,
+        "unitPrice": 220
+      }
+    ],
+    "status": "PREPARING",
+    "orderedAt": "T+0@07:15"
+  },
+  {
+    "id": "ORD-0014",
+    "reservationId": "BK-0023",
+    "roomId": "RM-406",
+    "items": [
+      {
+        "menuItemId": "MNU-0002",
+        "quantity": 2,
+        "unitPrice": 220
+      },
+      {
+        "menuItemId": "MNU-0018",
+        "quantity": 2,
+        "unitPrice": 120
+      }
+    ],
+    "status": "PLACED",
+    "orderedAt": "T+0@07:50"
+  },
+  {
+    "id": "ORD-0015",
+    "reservationId": "BK-0014",
+    "roomId": "RM-105",
+    "items": [
+      {
+        "menuItemId": "MNU-0007",
+        "quantity": 1,
+        "unitPrice": 320
+      },
+      {
+        "menuItemId": "MNU-0017",
+        "quantity": 1,
+        "unitPrice": 150
+      }
+    ],
+    "status": "PLACED",
+    "orderedAt": "T+0@08:05"
+  }
+]

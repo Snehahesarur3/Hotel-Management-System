@@ -1,0 +1,93 @@
+spring:
+  application:
+    name: hotel-management-system
+  jackson:
+    default-property-inclusion: non_null
+    serialization:
+      write-dates-as-timestamps: false
+    deserialization:
+      # 2.5 guests is an error, not 2.
+      accept-float-as-int: false
+  # No datasource: all repositories are in-memory mocks (see com.hotel.repository).
+  # When MySQL/JPA is introduced, add spring-boot-starter-data-jpa and a datasource here.
+
+server:
+  port: 8080
+  error:
+    include-stacktrace: never
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: when-authorized
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    name: Hotel Management System
+    version: 0.1.0
+    data-mode: in-memory-mock
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    operations-sorter: alpha
+    tags-sorter: alpha
+
+app:
+  # Business day boundaries (today's arrivals, revenue this month...) follow the hotel's time zone.
+  timezone: Asia/Kolkata
+  seed:
+    # Canonical dataset shared with the frontend (copied from ../shared/seed by Maven).
+    location: classpath:seed/
+  cors:
+    allowed-origins:
+      - http://localhost:5173
+      - http://127.0.0.1:5173
+      - http://localhost:5174
+  security:
+    # DEVELOPMENT-ONLY users (HTTP Basic, plain-text passwords).
+    # NOT production authentication. Replace with a real identity provider / JWT before deployment.
+    dev-users:
+      - username: admin
+        password: admin123
+        roles: [ADMIN]
+      - username: manager
+        password: manager123
+        roles: [MANAGER]
+      - username: reception
+        password: reception123
+        roles: [RECEPTIONIST]
+      - username: housekeeping
+        password: housekeeping123
+        roles: [HOUSEKEEPING]
+      - username: restaurant
+        password: restaurant123
+        roles: [RESTAURANT]
+
+logging:
+  level:
+    root: INFO
+    com.hotel: DEBUG
+  pattern:
+    # Correlation id (set by RequestLoggingFilter) is included in every line.
+    console: "%d{yyyy-MM-dd HH:mm:ss.SSS} %5p [%X{requestId:-system}] %-40.40logger{39} : %m%n"
+
+---
+# Machine-readable JSON logs: run with --spring.profiles.active=json-logs
+spring:
+  config:
+    activate:
+      on-profile: json-logs
+logging:
+  structured:
+    format:
+      console: ecs

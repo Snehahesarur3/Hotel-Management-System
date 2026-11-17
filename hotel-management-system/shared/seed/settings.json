@@ -1,0 +1,27 @@
+{
+  "seedVersion": 1,
+  "hotel": {
+    "name": "Aurelia Bay Hotel",
+    "address": "14 Marine Crescent, Miramar, Panaji, Goa 403001, India",
+    "phone": "+91 832 000 0100",
+    "email": "frontdesk@aureliabay.example",
+    "gstin": "30ABCDE1234F1Z5"
+  },
+  "currency": "INR",
+  "timezone": "Asia/Kolkata",
+  "checkInTime": "14:00",
+  "checkOutTime": "11:00",
+  "taxes": {
+    "roomGstSlabs": [
+      {
+        "maxRate": 7500,
+        "percent": 12
+      },
+      {
+        "maxRate": null,
+        "percent": 18
+      }
+    ],
+    "foodGstPercent": 5
+  }
+}

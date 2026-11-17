@@ -1,0 +1,204 @@
+[
+  {
+    "id": "HK-0001",
+    "roomId": "RM-107",
+    "assignedStaffId": "STF-0007",
+    "taskType": "CHECKOUT_CLEAN",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "scheduledDate": "T+0",
+    "notes": "Guest checked out this morning"
+  },
+  {
+    "id": "HK-0002",
+    "roomId": "RM-303",
+    "assignedStaffId": "STF-0008",
+    "taskType": "CHECKOUT_CLEAN",
+    "priority": "HIGH",
+    "status": "PENDING",
+    "scheduledDate": "T+0",
+    "notes": "Guest checked out this morning"
+  },
+  {
+    "id": "HK-0003",
+    "roomId": "RM-104",
+    "assignedStaffId": "STF-0006",
+    "taskType": "INSPECTION",
+    "priority": "HIGH",
+    "status": "COMPLETED",
+    "scheduledDate": "T+0",
+    "completedAt": "T+0@07:30",
+    "notes": "Ready for arrival today"
+  },
+  {
+    "id": "HK-0004",
+    "roomId": "RM-304",
+    "assignedStaffId": "STF-0006",
+    "taskType": "INSPECTION",
+    "priority": "HIGH",
+    "status": "COMPLETED",
+    "scheduledDate": "T+0",
+    "completedAt": "T+0@07:40",
+    "notes": "Ready for arrival today"
+  },
+  {
+    "id": "HK-0005",
+    "roomId": "RM-408",
+    "assignedStaffId": "STF-0006",
+    "taskType": "INSPECTION",
+    "priority": "HIGH",
+    "status": "COMPLETED",
+    "scheduledDate": "T+0",
+    "completedAt": "T+0@07:50",
+    "notes": "Ready for arrival today"
+  },
+  {
+    "id": "HK-0006",
+    "roomId": "RM-102",
+    "assignedStaffId": "STF-0007",
+    "taskType": "DAILY_SERVICE",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T+0",
+    "completedAt": "T+0@08:00"
+  },
+  {
+    "id": "HK-0007",
+    "roomId": "RM-105",
+    "assignedStaffId": "STF-0009",
+    "taskType": "DAILY_SERVICE",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T+0",
+    "completedAt": "T+0@08:05"
+  },
+  {
+    "id": "HK-0008",
+    "roomId": "RM-207",
+    "assignedStaffId": "STF-0008",
+    "taskType": "DAILY_SERVICE",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T+0",
+    "completedAt": "T+0@08:15"
+  },
+  {
+    "id": "HK-0009",
+    "roomId": "RM-302",
+    "assignedStaffId": "STF-0009",
+    "taskType": "DAILY_SERVICE",
+    "priority": "NORMAL",
+    "status": "IN_PROGRESS",
+    "scheduledDate": "T+0"
+  },
+  {
+    "id": "HK-0010",
+    "roomId": "RM-404",
+    "assignedStaffId": "STF-0007",
+    "taskType": "DAILY_SERVICE",
+    "priority": "NORMAL",
+    "status": "PENDING",
+    "scheduledDate": "T+0",
+    "notes": "Do not disturb until noon"
+  },
+  {
+    "id": "HK-0011",
+    "roomId": "RM-503",
+    "assignedStaffId": "STF-0008",
+    "taskType": "DAILY_SERVICE",
+    "priority": "NORMAL",
+    "status": "PENDING",
+    "scheduledDate": "T+0",
+    "notes": "Extra towels requested"
+  },
+  {
+    "id": "HK-0012",
+    "roomId": "RM-509",
+    "assignedStaffId": "STF-0006",
+    "taskType": "DAILY_SERVICE",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "scheduledDate": "T+0",
+    "notes": "VIP guest - turndown with amenities"
+  },
+  {
+    "id": "HK-0013",
+    "roomId": "RM-406",
+    "assignedStaffId": "STF-0009",
+    "taskType": "DAILY_SERVICE",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T+0",
+    "completedAt": "T+0@08:25"
+  },
+  {
+    "id": "HK-0014",
+    "roomId": "RM-110",
+    "assignedStaffId": "STF-0009",
+    "taskType": "DEEP_CLEAN",
+    "priority": "NORMAL",
+    "status": "PENDING",
+    "scheduledDate": "T+1",
+    "notes": "After AC compressor replacement"
+  },
+  {
+    "id": "HK-0015",
+    "roomId": "RM-305",
+    "assignedStaffId": "STF-0007",
+    "taskType": "DEEP_CLEAN",
+    "priority": "LOW",
+    "status": "PENDING",
+    "scheduledDate": "T+2",
+    "notes": "After bathroom re-grouting"
+  },
+  {
+    "id": "HK-0016",
+    "roomId": "RM-101",
+    "assignedStaffId": "STF-0007",
+    "taskType": "CHECKOUT_CLEAN",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T-3",
+    "completedAt": "T-3@13:10"
+  },
+  {
+    "id": "HK-0017",
+    "roomId": "RM-206",
+    "assignedStaffId": "STF-0008",
+    "taskType": "CHECKOUT_CLEAN",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T-9",
+    "completedAt": "T-9@12:40"
+  },
+  {
+    "id": "HK-0018",
+    "roomId": "RM-405",
+    "assignedStaffId": "STF-0009",
+    "taskType": "CHECKOUT_CLEAN",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T-16",
+    "completedAt": "T-16@12:55"
+  },
+  {
+    "id": "HK-0019",
+    "roomId": "RM-502",
+    "assignedStaffId": "STF-0006",
+    "taskType": "CHECKOUT_CLEAN",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T-24",
+    "completedAt": "T-24@13:30"
+  },
+  {
+    "id": "HK-0020",
+    "roomId": "RM-201",
+    "assignedStaffId": "STF-0007",
+    "taskType": "CHECKOUT_CLEAN",
+    "priority": "NORMAL",
+    "status": "COMPLETED",
+    "scheduledDate": "T-35",
+    "completedAt": "T-35@12:20"
+  }
+]

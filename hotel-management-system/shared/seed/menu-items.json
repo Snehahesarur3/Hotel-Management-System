@@ -1,0 +1,162 @@
+[
+  {
+    "id": "MNU-0001",
+    "name": "Masala Omelette",
+    "category": "BREAKFAST",
+    "price": 280,
+    "isVegetarian": false,
+    "available": true
+  },
+  {
+    "id": "MNU-0002",
+    "name": "Idli Sambar",
+    "category": "BREAKFAST",
+    "price": 220,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0003",
+    "name": "Aloo Paratha with Curd",
+    "category": "BREAKFAST",
+    "price": 260,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0004",
+    "name": "Continental Breakfast Platter",
+    "category": "BREAKFAST",
+    "price": 450,
+    "isVegetarian": false,
+    "available": true
+  },
+  {
+    "id": "MNU-0005",
+    "name": "Paneer Tikka",
+    "category": "STARTERS",
+    "price": 420,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0006",
+    "name": "Goan Prawn Rava Fry",
+    "category": "STARTERS",
+    "price": 560,
+    "isVegetarian": false,
+    "available": true
+  },
+  {
+    "id": "MNU-0007",
+    "name": "Crispy Corn Pepper Salt",
+    "category": "STARTERS",
+    "price": 320,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0008",
+    "name": "Chicken Seekh Kebab",
+    "category": "STARTERS",
+    "price": 480,
+    "isVegetarian": false,
+    "available": true
+  },
+  {
+    "id": "MNU-0009",
+    "name": "Goan Fish Curry with Rice",
+    "category": "MAIN_COURSE",
+    "price": 650,
+    "isVegetarian": false,
+    "available": true
+  },
+  {
+    "id": "MNU-0010",
+    "name": "Butter Chicken with Naan",
+    "category": "MAIN_COURSE",
+    "price": 620,
+    "isVegetarian": false,
+    "available": true
+  },
+  {
+    "id": "MNU-0011",
+    "name": "Dal Makhani with Jeera Rice",
+    "category": "MAIN_COURSE",
+    "price": 480,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0012",
+    "name": "Vegetable Biryani",
+    "category": "MAIN_COURSE",
+    "price": 440,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0013",
+    "name": "Bebinca",
+    "category": "DESSERTS",
+    "price": 260,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0014",
+    "name": "Gulab Jamun",
+    "category": "DESSERTS",
+    "price": 180,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0015",
+    "name": "Chocolate Lava Cake",
+    "category": "DESSERTS",
+    "price": 320,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0016",
+    "name": "Mango Kulfi",
+    "category": "DESSERTS",
+    "price": 220,
+    "isVegetarian": true,
+    "available": false
+  },
+  {
+    "id": "MNU-0017",
+    "name": "Fresh Lime Soda",
+    "category": "BEVERAGES",
+    "price": 150,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0018",
+    "name": "Masala Chai",
+    "category": "BEVERAGES",
+    "price": 120,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0019",
+    "name": "Cold Coffee",
+    "category": "BEVERAGES",
+    "price": 220,
+    "isVegetarian": true,
+    "available": true
+  },
+  {
+    "id": "MNU-0020",
+    "name": "Kokum Sherbet",
+    "category": "BEVERAGES",
+    "price": 160,
+    "isVegetarian": true,
+    "available": true
+  }
+]

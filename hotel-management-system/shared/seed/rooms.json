@@ -1,0 +1,900 @@
+[
+  {
+    "id": "RM-101",
+    "roomNumber": "101",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-102",
+    "roomNumber": "102",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "OCCUPIED",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-103",
+    "roomNumber": "103",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-104",
+    "roomNumber": "104",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "RESERVED",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-105",
+    "roomNumber": "105",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "OCCUPIED",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-106",
+    "roomNumber": "106",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-107",
+    "roomNumber": "107",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "CLEANING",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-108",
+    "roomNumber": "108",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "OCCUPIED",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-109",
+    "roomNumber": "109",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-110",
+    "roomNumber": "110",
+    "type": "STANDARD",
+    "floor": 1,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "MAINTENANCE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-201",
+    "roomNumber": "201",
+    "type": "STANDARD",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-202",
+    "roomNumber": "202",
+    "type": "STANDARD",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-203",
+    "roomNumber": "203",
+    "type": "STANDARD",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "OCCUPIED",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-204",
+    "roomNumber": "204",
+    "type": "STANDARD",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-205",
+    "roomNumber": "205",
+    "type": "STANDARD",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-206",
+    "roomNumber": "206",
+    "type": "STANDARD",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 3500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "status": "AVAILABLE",
+    "description": "Comfortable queen room with garden view, ideal for short business or leisure stays."
+  },
+  {
+    "id": "RM-207",
+    "roomNumber": "207",
+    "type": "DELUXE",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "OCCUPIED",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-208",
+    "roomNumber": "208",
+    "type": "DELUXE",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "AVAILABLE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-209",
+    "roomNumber": "209",
+    "type": "DELUXE",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "OCCUPIED",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-210",
+    "roomNumber": "210",
+    "type": "DELUXE",
+    "floor": 2,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "AVAILABLE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-301",
+    "roomNumber": "301",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "AVAILABLE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-302",
+    "roomNumber": "302",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "OCCUPIED",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-303",
+    "roomNumber": "303",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "CLEANING",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-304",
+    "roomNumber": "304",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "RESERVED",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-305",
+    "roomNumber": "305",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "MAINTENANCE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-306",
+    "roomNumber": "306",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "OCCUPIED",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-307",
+    "roomNumber": "307",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "AVAILABLE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-308",
+    "roomNumber": "308",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "AVAILABLE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-309",
+    "roomNumber": "309",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "OCCUPIED",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-310",
+    "roomNumber": "310",
+    "type": "DELUXE",
+    "floor": 3,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "AVAILABLE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-401",
+    "roomNumber": "401",
+    "type": "DELUXE",
+    "floor": 4,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "AVAILABLE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-402",
+    "roomNumber": "402",
+    "type": "DELUXE",
+    "floor": 4,
+    "capacity": 2,
+    "pricePerNight": 5500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Tea & Coffee Maker",
+      "Rain Shower"
+    ],
+    "status": "AVAILABLE",
+    "description": "Spacious king room with partial sea view and premium bath amenities."
+  },
+  {
+    "id": "RM-403",
+    "roomNumber": "403",
+    "type": "EXECUTIVE",
+    "floor": 4,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "AVAILABLE",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-404",
+    "roomNumber": "404",
+    "type": "EXECUTIVE",
+    "floor": 4,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "OCCUPIED",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-405",
+    "roomNumber": "405",
+    "type": "EXECUTIVE",
+    "floor": 4,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "AVAILABLE",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-406",
+    "roomNumber": "406",
+    "type": "EXECUTIVE",
+    "floor": 4,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "OCCUPIED",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-407",
+    "roomNumber": "407",
+    "type": "EXECUTIVE",
+    "floor": 4,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "AVAILABLE",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-408",
+    "roomNumber": "408",
+    "type": "EXECUTIVE",
+    "floor": 4,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "RESERVED",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-409",
+    "roomNumber": "409",
+    "type": "EXECUTIVE",
+    "floor": 4,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "AVAILABLE",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-410",
+    "roomNumber": "410",
+    "type": "EXECUTIVE",
+    "floor": 4,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "AVAILABLE",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-501",
+    "roomNumber": "501",
+    "type": "EXECUTIVE",
+    "floor": 5,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "AVAILABLE",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-502",
+    "roomNumber": "502",
+    "type": "EXECUTIVE",
+    "floor": 5,
+    "capacity": 3,
+    "pricePerNight": 8000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Work Desk",
+      "Bathtub"
+    ],
+    "status": "AVAILABLE",
+    "description": "Executive floor room with lounge access, sea view and a dedicated work area."
+  },
+  {
+    "id": "RM-503",
+    "roomNumber": "503",
+    "type": "SUITE",
+    "floor": 5,
+    "capacity": 4,
+    "pricePerNight": 12500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Living Area",
+      "Bathtub",
+      "Balcony"
+    ],
+    "status": "OCCUPIED",
+    "description": "One-bedroom suite with separate living room and private sea-facing balcony."
+  },
+  {
+    "id": "RM-504",
+    "roomNumber": "504",
+    "type": "SUITE",
+    "floor": 5,
+    "capacity": 4,
+    "pricePerNight": 12500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Living Area",
+      "Bathtub",
+      "Balcony"
+    ],
+    "status": "AVAILABLE",
+    "description": "One-bedroom suite with separate living room and private sea-facing balcony."
+  },
+  {
+    "id": "RM-505",
+    "roomNumber": "505",
+    "type": "SUITE",
+    "floor": 5,
+    "capacity": 4,
+    "pricePerNight": 12500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Living Area",
+      "Bathtub",
+      "Balcony"
+    ],
+    "status": "AVAILABLE",
+    "description": "One-bedroom suite with separate living room and private sea-facing balcony."
+  },
+  {
+    "id": "RM-506",
+    "roomNumber": "506",
+    "type": "SUITE",
+    "floor": 5,
+    "capacity": 4,
+    "pricePerNight": 12500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Living Area",
+      "Bathtub",
+      "Balcony"
+    ],
+    "status": "OCCUPIED",
+    "description": "One-bedroom suite with separate living room and private sea-facing balcony."
+  },
+  {
+    "id": "RM-507",
+    "roomNumber": "507",
+    "type": "SUITE",
+    "floor": 5,
+    "capacity": 4,
+    "pricePerNight": 12500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Living Area",
+      "Bathtub",
+      "Balcony"
+    ],
+    "status": "AVAILABLE",
+    "description": "One-bedroom suite with separate living room and private sea-facing balcony."
+  },
+  {
+    "id": "RM-508",
+    "roomNumber": "508",
+    "type": "SUITE",
+    "floor": 5,
+    "capacity": 4,
+    "pricePerNight": 12500,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Living Area",
+      "Bathtub",
+      "Balcony"
+    ],
+    "status": "AVAILABLE",
+    "description": "One-bedroom suite with separate living room and private sea-facing balcony."
+  },
+  {
+    "id": "RM-509",
+    "roomNumber": "509",
+    "type": "PRESIDENTIAL",
+    "floor": 5,
+    "capacity": 6,
+    "pricePerNight": 25000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Living Area",
+      "Dining Area",
+      "Jacuzzi",
+      "Butler Service",
+      "Private Terrace"
+    ],
+    "status": "OCCUPIED",
+    "description": "Two-bedroom top-floor residence with private terrace, jacuzzi and butler service."
+  },
+  {
+    "id": "RM-510",
+    "roomNumber": "510",
+    "type": "PRESIDENTIAL",
+    "floor": 5,
+    "capacity": 6,
+    "pricePerNight": 25000,
+    "amenities": [
+      "Wi-Fi",
+      "Air Conditioning",
+      "Smart TV",
+      "Mini Bar",
+      "Lounge Access",
+      "Living Area",
+      "Dining Area",
+      "Jacuzzi",
+      "Butler Service",
+      "Private Terrace"
+    ],
+    "status": "AVAILABLE",
+    "description": "Two-bedroom top-floor residence with private terrace, jacuzzi and butler service."
+  }
+]

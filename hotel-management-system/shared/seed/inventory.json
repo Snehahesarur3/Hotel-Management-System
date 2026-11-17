@@ -1,0 +1,482 @@
+[
+  {
+    "id": "INV-0001",
+    "name": "Bath Towel (White)",
+    "category": "LINEN",
+    "unit": "pcs",
+    "quantity": 320,
+    "minStockLevel": 200,
+    "unitCost": 450,
+    "supplier": {
+      "name": "Coastal Linen Co.",
+      "contactPerson": "Rita Fernandes",
+      "phone": "+91 90000 70011",
+      "email": "orders@coastallinen.example"
+    },
+    "lastRestocked": "T-12"
+  },
+  {
+    "id": "INV-0002",
+    "name": "Hand Towel (White)",
+    "category": "LINEN",
+    "unit": "pcs",
+    "quantity": 280,
+    "minStockLevel": 200,
+    "unitCost": 180,
+    "supplier": {
+      "name": "Coastal Linen Co.",
+      "contactPerson": "Rita Fernandes",
+      "phone": "+91 90000 70011",
+      "email": "orders@coastallinen.example"
+    },
+    "lastRestocked": "T-12"
+  },
+  {
+    "id": "INV-0003",
+    "name": "King Bed Sheet Set",
+    "category": "LINEN",
+    "unit": "sets",
+    "quantity": 140,
+    "minStockLevel": 120,
+    "unitCost": 1650,
+    "supplier": {
+      "name": "Coastal Linen Co.",
+      "contactPerson": "Rita Fernandes",
+      "phone": "+91 90000 70011",
+      "email": "orders@coastallinen.example"
+    },
+    "lastRestocked": "T-20"
+  },
+  {
+    "id": "INV-0004",
+    "name": "Pillow Cover",
+    "category": "LINEN",
+    "unit": "pcs",
+    "quantity": 90,
+    "minStockLevel": 150,
+    "unitCost": 220,
+    "supplier": {
+      "name": "Coastal Linen Co.",
+      "contactPerson": "Rita Fernandes",
+      "phone": "+91 90000 70011",
+      "email": "orders@coastallinen.example"
+    },
+    "lastRestocked": "T-41"
+  },
+  {
+    "id": "INV-0005",
+    "name": "Bathrobe",
+    "category": "LINEN",
+    "unit": "pcs",
+    "quantity": 60,
+    "minStockLevel": 40,
+    "unitCost": 1200,
+    "supplier": {
+      "name": "Coastal Linen Co.",
+      "contactPerson": "Rita Fernandes",
+      "phone": "+91 90000 70011",
+      "email": "orders@coastallinen.example"
+    },
+    "lastRestocked": "T-30"
+  },
+  {
+    "id": "INV-0006",
+    "name": "Shampoo 30 ml",
+    "category": "TOILETRIES",
+    "unit": "bottles",
+    "quantity": 850,
+    "minStockLevel": 500,
+    "unitCost": 18,
+    "supplier": {
+      "name": "Konkan Guest Amenities",
+      "contactPerson": "Sameer Naik",
+      "phone": "+91 90000 70022",
+      "email": "sales@konkanamenities.example"
+    },
+    "lastRestocked": "T-6"
+  },
+  {
+    "id": "INV-0007",
+    "name": "Conditioner 30 ml",
+    "category": "TOILETRIES",
+    "unit": "bottles",
+    "quantity": 640,
+    "minStockLevel": 500,
+    "unitCost": 18,
+    "supplier": {
+      "name": "Konkan Guest Amenities",
+      "contactPerson": "Sameer Naik",
+      "phone": "+91 90000 70022",
+      "email": "sales@konkanamenities.example"
+    },
+    "lastRestocked": "T-6"
+  },
+  {
+    "id": "INV-0008",
+    "name": "Body Wash 30 ml",
+    "category": "TOILETRIES",
+    "unit": "bottles",
+    "quantity": 410,
+    "minStockLevel": 500,
+    "unitCost": 20,
+    "supplier": {
+      "name": "Konkan Guest Amenities",
+      "contactPerson": "Sameer Naik",
+      "phone": "+91 90000 70022",
+      "email": "sales@konkanamenities.example"
+    },
+    "lastRestocked": "T-27"
+  },
+  {
+    "id": "INV-0009",
+    "name": "Soap Bar 40 g",
+    "category": "TOILETRIES",
+    "unit": "pcs",
+    "quantity": 1200,
+    "minStockLevel": 600,
+    "unitCost": 12,
+    "supplier": {
+      "name": "Konkan Guest Amenities",
+      "contactPerson": "Sameer Naik",
+      "phone": "+91 90000 70022",
+      "email": "sales@konkanamenities.example"
+    },
+    "lastRestocked": "T-6"
+  },
+  {
+    "id": "INV-0010",
+    "name": "Dental Kit",
+    "category": "TOILETRIES",
+    "unit": "kits",
+    "quantity": 380,
+    "minStockLevel": 300,
+    "unitCost": 25,
+    "supplier": {
+      "name": "Konkan Guest Amenities",
+      "contactPerson": "Sameer Naik",
+      "phone": "+91 90000 70022",
+      "email": "sales@konkanamenities.example"
+    },
+    "lastRestocked": "T-15"
+  },
+  {
+    "id": "INV-0011",
+    "name": "Slippers (Pair)",
+    "category": "TOILETRIES",
+    "unit": "pairs",
+    "quantity": 260,
+    "minStockLevel": 250,
+    "unitCost": 55,
+    "supplier": {
+      "name": "Konkan Guest Amenities",
+      "contactPerson": "Sameer Naik",
+      "phone": "+91 90000 70022",
+      "email": "sales@konkanamenities.example"
+    },
+    "lastRestocked": "T-15"
+  },
+  {
+    "id": "INV-0012",
+    "name": "Floor Cleaner 5 L",
+    "category": "CLEANING_SUPPLIES",
+    "unit": "cans",
+    "quantity": 24,
+    "minStockLevel": 15,
+    "unitCost": 650,
+    "supplier": {
+      "name": "BrightCare Supplies",
+      "contactPerson": "Neha Bhat",
+      "phone": "+91 90000 70033",
+      "email": "support@brightcare.example"
+    },
+    "lastRestocked": "T-9"
+  },
+  {
+    "id": "INV-0013",
+    "name": "Glass Cleaner 1 L",
+    "category": "CLEANING_SUPPLIES",
+    "unit": "bottles",
+    "quantity": 8,
+    "minStockLevel": 20,
+    "unitCost": 180,
+    "supplier": {
+      "name": "BrightCare Supplies",
+      "contactPerson": "Neha Bhat",
+      "phone": "+91 90000 70033",
+      "email": "support@brightcare.example"
+    },
+    "lastRestocked": "T-38"
+  },
+  {
+    "id": "INV-0014",
+    "name": "Disinfectant 5 L",
+    "category": "CLEANING_SUPPLIES",
+    "unit": "cans",
+    "quantity": 18,
+    "minStockLevel": 12,
+    "unitCost": 820,
+    "supplier": {
+      "name": "BrightCare Supplies",
+      "contactPerson": "Neha Bhat",
+      "phone": "+91 90000 70033",
+      "email": "support@brightcare.example"
+    },
+    "lastRestocked": "T-9"
+  },
+  {
+    "id": "INV-0015",
+    "name": "Garbage Bags (Roll)",
+    "category": "CLEANING_SUPPLIES",
+    "unit": "rolls",
+    "quantity": 75,
+    "minStockLevel": 50,
+    "unitCost": 140,
+    "supplier": {
+      "name": "BrightCare Supplies",
+      "contactPerson": "Neha Bhat",
+      "phone": "+91 90000 70033",
+      "email": "support@brightcare.example"
+    },
+    "lastRestocked": "T-9"
+  },
+  {
+    "id": "INV-0016",
+    "name": "Microfiber Cloth",
+    "category": "CLEANING_SUPPLIES",
+    "unit": "pcs",
+    "quantity": 150,
+    "minStockLevel": 100,
+    "unitCost": 45,
+    "supplier": {
+      "name": "BrightCare Supplies",
+      "contactPerson": "Neha Bhat",
+      "phone": "+91 90000 70033",
+      "email": "support@brightcare.example"
+    },
+    "lastRestocked": "T-22"
+  },
+  {
+    "id": "INV-0017",
+    "name": "Basmati Rice 25 kg",
+    "category": "FOOD_BEVERAGE",
+    "unit": "bags",
+    "quantity": 14,
+    "minStockLevel": 10,
+    "unitCost": 2400,
+    "supplier": {
+      "name": "Mandovi Fresh Foods",
+      "contactPerson": "Anthony Rodrigues",
+      "phone": "+91 90000 70044",
+      "email": "fresh@mandovifoods.example"
+    },
+    "lastRestocked": "T-4"
+  },
+  {
+    "id": "INV-0018",
+    "name": "Cooking Oil 15 L",
+    "category": "FOOD_BEVERAGE",
+    "unit": "tins",
+    "quantity": 6,
+    "minStockLevel": 8,
+    "unitCost": 2100,
+    "supplier": {
+      "name": "Mandovi Fresh Foods",
+      "contactPerson": "Anthony Rodrigues",
+      "phone": "+91 90000 70044",
+      "email": "fresh@mandovifoods.example"
+    },
+    "lastRestocked": "T-18"
+  },
+  {
+    "id": "INV-0019",
+    "name": "Coffee Beans 1 kg",
+    "category": "FOOD_BEVERAGE",
+    "unit": "packs",
+    "quantity": 22,
+    "minStockLevel": 10,
+    "unitCost": 950,
+    "supplier": {
+      "name": "Mandovi Fresh Foods",
+      "contactPerson": "Anthony Rodrigues",
+      "phone": "+91 90000 70044",
+      "email": "fresh@mandovifoods.example"
+    },
+    "lastRestocked": "T-10"
+  },
+  {
+    "id": "INV-0020",
+    "name": "Assam Tea 1 kg",
+    "category": "FOOD_BEVERAGE",
+    "unit": "packs",
+    "quantity": 16,
+    "minStockLevel": 8,
+    "unitCost": 520,
+    "supplier": {
+      "name": "Mandovi Fresh Foods",
+      "contactPerson": "Anthony Rodrigues",
+      "phone": "+91 90000 70044",
+      "email": "fresh@mandovifoods.example"
+    },
+    "lastRestocked": "T-10"
+  },
+  {
+    "id": "INV-0021",
+    "name": "Mineral Water 1 L",
+    "category": "FOOD_BEVERAGE",
+    "unit": "bottles",
+    "quantity": 480,
+    "minStockLevel": 400,
+    "unitCost": 20,
+    "supplier": {
+      "name": "Mandovi Fresh Foods",
+      "contactPerson": "Anthony Rodrigues",
+      "phone": "+91 90000 70044",
+      "email": "fresh@mandovifoods.example"
+    },
+    "lastRestocked": "T-3"
+  },
+  {
+    "id": "INV-0022",
+    "name": "Fresh Cream 1 L",
+    "category": "FOOD_BEVERAGE",
+    "unit": "packs",
+    "quantity": 12,
+    "minStockLevel": 10,
+    "unitCost": 260,
+    "supplier": {
+      "name": "Mandovi Fresh Foods",
+      "contactPerson": "Anthony Rodrigues",
+      "phone": "+91 90000 70044",
+      "email": "fresh@mandovifoods.example"
+    },
+    "lastRestocked": "T-2"
+  },
+  {
+    "id": "INV-0023",
+    "name": "LED Bulb 9 W",
+    "category": "MAINTENANCE",
+    "unit": "pcs",
+    "quantity": 85,
+    "minStockLevel": 40,
+    "unitCost": 110,
+    "supplier": {
+      "name": "Goa Hardware & Electricals",
+      "contactPerson": "Prakash Sawant",
+      "phone": "+91 90000 70055",
+      "email": "trade@goahardware.example"
+    },
+    "lastRestocked": "T-33"
+  },
+  {
+    "id": "INV-0024",
+    "name": "AC Air Filter",
+    "category": "MAINTENANCE",
+    "unit": "pcs",
+    "quantity": 30,
+    "minStockLevel": 25,
+    "unitCost": 650,
+    "supplier": {
+      "name": "Goa Hardware & Electricals",
+      "contactPerson": "Prakash Sawant",
+      "phone": "+91 90000 70055",
+      "email": "trade@goahardware.example"
+    },
+    "lastRestocked": "T-47"
+  },
+  {
+    "id": "INV-0025",
+    "name": "Door Lock Battery (AA)",
+    "category": "MAINTENANCE",
+    "unit": "packs",
+    "quantity": 4,
+    "minStockLevel": 10,
+    "unitCost": 240,
+    "supplier": {
+      "name": "Goa Hardware & Electricals",
+      "contactPerson": "Prakash Sawant",
+      "phone": "+91 90000 70055",
+      "email": "trade@goahardware.example"
+    },
+    "lastRestocked": "T-55"
+  },
+  {
+    "id": "INV-0026",
+    "name": "Plumbing Sealant",
+    "category": "MAINTENANCE",
+    "unit": "tubes",
+    "quantity": 12,
+    "minStockLevel": 6,
+    "unitCost": 190,
+    "supplier": {
+      "name": "Goa Hardware & Electricals",
+      "contactPerson": "Prakash Sawant",
+      "phone": "+91 90000 70055",
+      "email": "trade@goahardware.example"
+    },
+    "lastRestocked": "T-60"
+  },
+  {
+    "id": "INV-0027",
+    "name": "A4 Paper Ream",
+    "category": "OFFICE_SUPPLIES",
+    "unit": "reams",
+    "quantity": 35,
+    "minStockLevel": 20,
+    "unitCost": 290,
+    "supplier": {
+      "name": "PaperTrail Stationers",
+      "contactPerson": "Leena Kamat",
+      "phone": "+91 90000 70066",
+      "email": "orders@papertrail.example"
+    },
+    "lastRestocked": "T-25"
+  },
+  {
+    "id": "INV-0028",
+    "name": "Thermal Receipt Roll",
+    "category": "OFFICE_SUPPLIES",
+    "unit": "rolls",
+    "quantity": 40,
+    "minStockLevel": 30,
+    "unitCost": 60,
+    "supplier": {
+      "name": "PaperTrail Stationers",
+      "contactPerson": "Leena Kamat",
+      "phone": "+91 90000 70066",
+      "email": "orders@papertrail.example"
+    },
+    "lastRestocked": "T-25"
+  },
+  {
+    "id": "INV-0029",
+    "name": "Key Card (RFID)",
+    "category": "OFFICE_SUPPLIES",
+    "unit": "pcs",
+    "quantity": 180,
+    "minStockLevel": 100,
+    "unitCost": 85,
+    "supplier": {
+      "name": "PaperTrail Stationers",
+      "contactPerson": "Leena Kamat",
+      "phone": "+91 90000 70066",
+      "email": "orders@papertrail.example"
+    },
+    "lastRestocked": "T-70"
+  },
+  {
+    "id": "INV-0030",
+    "name": "Ballpoint Pen (Box)",
+    "category": "OFFICE_SUPPLIES",
+    "unit": "boxes",
+    "quantity": 14,
+    "minStockLevel": 10,
+    "unitCost": 150,
+    "supplier": {
+      "name": "PaperTrail Stationers",
+      "contactPerson": "Leena Kamat",
+      "phone": "+91 90000 70066",
+      "email": "orders@papertrail.example"
+    },
+    "lastRestocked": "T-25"
+  }
+]
